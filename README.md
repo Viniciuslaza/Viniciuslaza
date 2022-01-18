@@ -38,9 +38,7 @@
 
 <div> 
  <br>
-  <br>
-  ![Snake animation](https://github.com/viniciuslaza/viniciuslaza/blob/output/github-contribution-grid-snake.svg)
- 
+  
 <br>
 ---------------------------------------------------
 <br>
