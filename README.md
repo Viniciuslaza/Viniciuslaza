@@ -70,7 +70,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 
-![Snake animation](https://github.com/rafaballerini/Viniciuslaza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Viniciuslaza/Viniciuslaza/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 ------------------------------------------------------------------------------------------------------------------------------------------
