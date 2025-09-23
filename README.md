@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Lazarini</h1>
-<h3 align="center">Student of systems analysis🌟.</h3>
+<h3 align="center">Frontend Developer Engineer🌟.</h3>
 
 <br>
 
