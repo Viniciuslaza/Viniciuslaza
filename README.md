@@ -78,45 +78,6 @@ I'm a **Frontend Software Engineer** based in **Campinas, Brazil** 🇧🇷, pas
 
 <br/>
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
-
-<br/>
-
-<!-- ====== STATS ====== -->
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuslaza&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuslaza&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&title_color=A78BFA"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Viniciuslaza&theme=midnight-purple&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" width="80%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciuslaza&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=F472B6&area=true" width="98%"/>
-
-</div>
-
-<br/>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
-
-<br/>
-
-<!-- ====== TROPHY ====== -->
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Viniciuslaza&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-
-</div>
-
 <br/>
 
 <!-- ====== FOOTER ====== -->
