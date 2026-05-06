@@ -76,17 +76,4 @@ I'm a **Frontend Software Engineer** based in **Campinas, Brazil** 🇧🇷, pas
 
 </div>
 
-<br/>
 
-<br/>
-
-<!-- ====== FOOTER ====== -->
-<div align="center">
-
-### *"Build less. Build better."* ✨
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
-</div>
