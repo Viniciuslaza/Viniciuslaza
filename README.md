@@ -1,10 +1,3 @@
-<!-- ====== HERO BANNER ====== -->
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=180&section=header&text=HELLO%20WORLD&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Welcome%20to%20my%20Profile&descSize=18&descAlignY=85&animation=fadeIn" width="100%"/>
-
-</div>
-
 <!-- ====== INTRO ====== -->
 
 # 👋 I'm Vinicius!
